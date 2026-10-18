@@ -1,0 +1,1601 @@
+[
+  {
+    "url": "/art/icon_bot.svg",
+    "name": "icon_bot"
+  },
+  {
+    "url": "/art/icon_fullscreen_expand.svg",
+    "name": "icon_fullscreen_expand",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_fullscreen_contract.svg",
+    "name": "icon_fullscreen_contract",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_special_build_phase_flag.svg",
+    "name": "icon_special_build_phase_flag",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_crown_leader.svg",
+    "name": "icon_crown_leader",
+    "audio": false
+  },
+  {
+    "url": "/art/tile_fog.svg",
+    "name": "tile_fog",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss3_3p_preview.svg",
+    "name": "map_ss3_3p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss3_4p_preview.svg",
+    "name": "map_ss3_4p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss3_6p_preview.svg",
+    "name": "map_ss3_6p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_question_mark.svg",
+    "name": "icon_question_mark",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss2_3p_preview.svg",
+    "name": "map_ss2_3p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss2_4p_preview.svg",
+    "name": "map_ss2_4p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss2_6p_preview.svg",
+    "name": "map_ss2_6p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss4_3p_preview.svg",
+    "name": "map_ss4_3p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss4_4p_preview.svg",
+    "name": "map_ss4_4p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss4_6p_preview.svg",
+    "name": "map_ss4_6p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_orange_north_west.svg",
+    "name": "ship_orange_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_green_north_west.svg",
+    "name": "ship_green_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_black_north_west.svg",
+    "name": "ship_black_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_red_north_west.svg",
+    "name": "ship_red_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_blue_north_west.svg",
+    "name": "ship_blue_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_purple_north_west.svg",
+    "name": "ship_purple_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_pirate_ship.svg",
+    "name": "icon_pirate_ship",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_gold.svg",
+    "name": "generated_tile_gold",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss1_4p_preview.svg",
+    "name": "map_ss1_4p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss1_3p_preview.svg",
+    "name": "map_ss1_3p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_ss1_6p_preview.svg",
+    "name": "map_ss1_6p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_white_north_west.svg",
+    "name": "ship_white_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/ship_pink_north_west.svg",
+    "name": "ship_pink_north_west",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_playtime.svg",
+    "name": "icon_playtime",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_largest_army_highlight.svg",
+    "name": "icon_largest_army_highlight",
+    "audio": false
+  },
+  {
+    "url": "/art/road_black.svg",
+    "name": "road_black",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_brick.svg",
+    "name": "generated_tile_brick",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_lumber.svg",
+    "name": "generated_tile_lumber",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_ore.svg",
+    "name": "generated_tile_ore",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_wool.svg",
+    "name": "generated_tile_wool",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_grain.svg",
+    "name": "generated_tile_grain",
+    "audio": false
+  },
+  {
+    "url": "/art/city_green.svg",
+    "name": "city_green",
+    "audio": false
+  },
+  {
+    "url": "/art/card_ore.svg",
+    "name": "card_ore",
+    "audio": false
+  },
+  {
+    "url": "/art/road_blue.svg",
+    "name": "road_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/card_rescardback.svg",
+    "name": "card_rescardback",
+    "audio": false
+  },
+  {
+    "url": "/art/road_purple.svg",
+    "name": "road_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/generated_tile_desert.svg",
+    "name": "generated_tile_desert",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_pink.svg",
+    "name": "settlement_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/logo.svg",
+    "name": "logo",
+    "audio": false
+  },
+  {
+    "url": "/art/card_brick.svg",
+    "name": "card_brick",
+    "audio": false
+  },
+  {
+    "url": "/art/road_green.svg",
+    "name": "road_green",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_robber.svg",
+    "name": "icon_robber",
+    "audio": false
+  },
+  {
+    "url": "/art/card_yearofplenty.svg",
+    "name": "card_yearofplenty",
+    "audio": false
+  },
+  {
+    "url": "/art/card_vp.svg",
+    "name": "card_vp",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_profile_friends.svg",
+    "name": "icon_profile_friends",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_3.svg",
+    "name": "dice_3",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_purple.svg",
+    "name": "settlement_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_green.svg",
+    "name": "settlement_green",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_leaderboard.svg",
+    "name": "icon_leaderboard",
+    "audio": false
+  },
+  {
+    "url": "/art/road_white.svg",
+    "name": "road_white",
+    "audio": false
+  },
+  {
+    "url": "/art/card_lumber.svg",
+    "name": "card_lumber",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_player.svg",
+    "name": "icon_player",
+    "audio": false
+  },
+  {
+    "url": "/art/city_red.svg",
+    "name": "city_red",
+    "audio": false
+  },
+  {
+    "url": "/art/card_wool.svg",
+    "name": "card_wool",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_4.svg",
+    "name": "dice_4",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_orange.svg",
+    "name": "settlement_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_2.svg",
+    "name": "dice_2",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_6.svg",
+    "name": "dice_6",
+    "audio": false
+  },
+  {
+    "url": "/art/road_orange.svg",
+    "name": "road_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_players.svg",
+    "name": "icon_players",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_black.svg",
+    "name": "settlement_black",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_red.svg",
+    "name": "settlement_red",
+    "audio": false
+  },
+  {
+    "url": "/art/city_blue.svg",
+    "name": "city_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/city_pink.svg",
+    "name": "city_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/road_pink.svg",
+    "name": "road_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_player_count.svg",
+    "name": "icon_player_count",
+    "audio": false
+  },
+  {
+    "url": "/art/card_knight.svg",
+    "name": "card_knight",
+    "audio": false
+  },
+  {
+    "url": "/art/logo_mobile.svg",
+    "name": "logo_mobile",
+    "audio": false
+  },
+  {
+    "url": "/art/card_grain.svg",
+    "name": "card_grain",
+    "audio": false
+  },
+  {
+    "url": "/art/road_red.svg",
+    "name": "road_red",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_5.svg",
+    "name": "dice_5",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_1.svg",
+    "name": "dice_1",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_blue.svg",
+    "name": "settlement_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/city_orange.svg",
+    "name": "city_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/city_purple.svg",
+    "name": "city_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/settlement_white.svg",
+    "name": "settlement_white",
+    "audio": false
+  },
+  {
+    "url": "/art/card_monopoly.svg",
+    "name": "card_monopoly",
+    "audio": false
+  },
+  {
+    "url": "/art/city_black.svg",
+    "name": "city_black",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_player_loggedin.svg",
+    "name": "icon_player_loggedin",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_longest_road_highlight.svg",
+    "name": "icon_longest_road_highlight",
+    "audio": false
+  },
+  {
+    "url": "/art/card_devcardback.svg",
+    "name": "card_devcardback",
+    "audio": false
+  },
+  {
+    "url": "/art/card_roadbuilding.svg",
+    "name": "card_roadbuilding",
+    "audio": false
+  },
+  {
+    "url": "/art/city_white.svg",
+    "name": "city_white",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_more.svg",
+    "name": "icon_more",
+    "audio": false
+  },
+  {
+    "url": "/art/map_lakes_preview.svg",
+    "name": "map_lakes_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_random_base_preview.svg",
+    "name": "map_random_base_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_base_4p_preview.svg",
+    "name": "map_base_4p_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_blackforest_preview.svg",
+    "name": "map_blackforest_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/card_cloth.svg",
+    "name": "card_cloth",
+    "audio": false
+  },
+  {
+    "url": "/art/card_coin.svg",
+    "name": "card_coin",
+    "audio": false
+  },
+  {
+    "url": "/art/card_paper.svg",
+    "name": "card_paper",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_back.svg",
+    "name": "card_progress_back",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_back.svg",
+    "name": "card_progress_politics_back",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_bishop.svg",
+    "name": "card_progress_politics_bishop",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_constitution.svg",
+    "name": "card_progress_politics_constitution",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_deserter.svg",
+    "name": "card_progress_politics_deserter",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_diplomat.svg",
+    "name": "card_progress_politics_diplomat",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_intrigue.svg",
+    "name": "card_progress_politics_intrigue",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_saboteur.svg",
+    "name": "card_progress_politics_saboteur",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_spy.svg",
+    "name": "card_progress_politics_spy",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_warlord.svg",
+    "name": "card_progress_politics_warlord",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_politics_wedding.svg",
+    "name": "card_progress_politics_wedding",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_alchemist.svg",
+    "name": "card_progress_science_alchemist",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_back.svg",
+    "name": "card_progress_science_back",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_crane.svg",
+    "name": "card_progress_science_crane",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_engineer.svg",
+    "name": "card_progress_science_engineer",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_inventor.svg",
+    "name": "card_progress_science_inventor",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_irrigation.svg",
+    "name": "card_progress_science_irrigation",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_medicine.svg",
+    "name": "card_progress_science_medicine",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_mining.svg",
+    "name": "card_progress_science_mining",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_printer.svg",
+    "name": "card_progress_science_printer",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_road_building.svg",
+    "name": "card_progress_science_road_building",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_science_smith.svg",
+    "name": "card_progress_science_smith",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_back.svg",
+    "name": "card_progress_trade_back",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_commercial_harbor.svg",
+    "name": "card_progress_trade_commercial_harbor",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_commodity_monopoly.svg",
+    "name": "card_progress_trade_commodity_monopoly",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_master_merchant.svg",
+    "name": "card_progress_trade_master_merchant",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_merchant.svg",
+    "name": "card_progress_trade_merchant",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_merchant_fleet.svg",
+    "name": "card_progress_trade_merchant_fleet",
+    "audio": false
+  },
+  {
+    "url": "/art/card_progress_trade_resource_monopoly.svg",
+    "name": "card_progress_trade_resource_monopoly",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_black.svg",
+    "name": "city_wall_black",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_blue.svg",
+    "name": "city_wall_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_green.svg",
+    "name": "city_wall_green",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_orange.svg",
+    "name": "city_wall_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_pink.svg",
+    "name": "city_wall_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_purple.svg",
+    "name": "city_wall_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_red.svg",
+    "name": "city_wall_red",
+    "audio": false
+  },
+  {
+    "url": "/art/city_wall_white.svg",
+    "name": "city_wall_white",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_event_barbarian.svg",
+    "name": "dice_event_barbarian",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_event_politics.svg",
+    "name": "dice_event_politics",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_event_science.svg",
+    "name": "dice_event_science",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_event_trade.svg",
+    "name": "dice_event_trade",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_red_1.svg",
+    "name": "dice_red_1",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_red_2.svg",
+    "name": "dice_red_2",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_red_3.svg",
+    "name": "dice_red_3",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_red_4.svg",
+    "name": "dice_red_4",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_red_5.svg",
+    "name": "dice_red_5",
+    "audio": false
+  },
+  {
+    "url": "/art/dice_red_6.svg",
+    "name": "dice_red_6",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_black.svg",
+    "name": "icon_merchant_black",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_blue.svg",
+    "name": "icon_merchant_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_green.svg",
+    "name": "icon_merchant_green",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_orange.svg",
+    "name": "icon_merchant_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_pink.svg",
+    "name": "icon_merchant_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_purple.svg",
+    "name": "icon_merchant_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_red.svg",
+    "name": "icon_merchant_red",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_merchant_white.svg",
+    "name": "icon_merchant_white",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_black.svg",
+    "name": "knight_level1_active_black",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_blue.svg",
+    "name": "knight_level1_active_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_green.svg",
+    "name": "knight_level1_active_green",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_orange.svg",
+    "name": "knight_level1_active_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_pink.svg",
+    "name": "knight_level1_active_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_purple.svg",
+    "name": "knight_level1_active_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_red.svg",
+    "name": "knight_level1_active_red",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_active_white.svg",
+    "name": "knight_level1_active_white",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_black.svg",
+    "name": "knight_level1_inactive_black",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_blue.svg",
+    "name": "knight_level1_inactive_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_green.svg",
+    "name": "knight_level1_inactive_green",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_orange.svg",
+    "name": "knight_level1_inactive_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_pink.svg",
+    "name": "knight_level1_inactive_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_purple.svg",
+    "name": "knight_level1_inactive_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_red.svg",
+    "name": "knight_level1_inactive_red",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level1_inactive_white.svg",
+    "name": "knight_level1_inactive_white",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_black.svg",
+    "name": "knight_level2_active_black",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_blue.svg",
+    "name": "knight_level2_active_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_green.svg",
+    "name": "knight_level2_active_green",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_orange.svg",
+    "name": "knight_level2_active_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_pink.svg",
+    "name": "knight_level2_active_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_purple.svg",
+    "name": "knight_level2_active_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_red.svg",
+    "name": "knight_level2_active_red",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_active_white.svg",
+    "name": "knight_level2_active_white",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_black.svg",
+    "name": "knight_level2_inactive_black",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_blue.svg",
+    "name": "knight_level2_inactive_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_green.svg",
+    "name": "knight_level2_inactive_green",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_orange.svg",
+    "name": "knight_level2_inactive_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_pink.svg",
+    "name": "knight_level2_inactive_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_purple.svg",
+    "name": "knight_level2_inactive_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_red.svg",
+    "name": "knight_level2_inactive_red",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level2_inactive_white.svg",
+    "name": "knight_level2_inactive_white",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_black.svg",
+    "name": "knight_level3_active_black",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_blue.svg",
+    "name": "knight_level3_active_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_green.svg",
+    "name": "knight_level3_active_green",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_orange.svg",
+    "name": "knight_level3_active_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_pink.svg",
+    "name": "knight_level3_active_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_purple.svg",
+    "name": "knight_level3_active_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_red.svg",
+    "name": "knight_level3_active_red",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_active_white.svg",
+    "name": "knight_level3_active_white",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_black.svg",
+    "name": "knight_level3_inactive_black",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_blue.svg",
+    "name": "knight_level3_inactive_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_green.svg",
+    "name": "knight_level3_inactive_green",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_orange.svg",
+    "name": "knight_level3_inactive_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_pink.svg",
+    "name": "knight_level3_inactive_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_purple.svg",
+    "name": "knight_level3_inactive_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_red.svg",
+    "name": "knight_level3_inactive_red",
+    "audio": false
+  },
+  {
+    "url": "/art/knight_level3_inactive_white.svg",
+    "name": "knight_level3_inactive_white",
+    "audio": false
+  },
+  {
+    "url": "/art/metropolis_politics.svg",
+    "name": "metropolis_politics",
+    "audio": false
+  },
+  {
+    "url": "/art/metropolis_science.svg",
+    "name": "metropolis_science",
+    "audio": false
+  },
+  {
+    "url": "/art/metropolis_trade.svg",
+    "name": "metropolis_trade",
+    "audio": false
+  },
+  {
+    "url": "/art/seafarers_cities_and_knights_56player.svg",
+    "name": "seafarers_cities_and_knights_56player",
+    "audio": false
+  },
+  {
+    "url": "/art/seafarers_cities_and_knights.svg",
+    "name": "seafarers_cities_and_knights",
+    "audio": false
+  },
+  {
+    "url": "/art/map_diamond_preview.svg",
+    "name": "map_diamond_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_pond_preview.svg",
+    "name": "map_pond_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_gear_preview.svg",
+    "name": "map_gear_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_twirl_preview.svg",
+    "name": "map_twirl_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/map_goldrush_preview.svg",
+    "name": "map_goldrush_preview",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_gamemode_1v1.svg",
+    "name": "icon_gamemode_1v1",
+    "audio": false
+  },
+  {
+    "url": "/art/base.svg",
+    "name": "base",
+    "audio": false
+  },
+  {
+    "url": "/art/bronze.svg",
+    "name": "bronze",
+    "audio": false
+  },
+  {
+    "url": "/art/silver.svg",
+    "name": "silver",
+    "audio": false
+  },
+  {
+    "url": "/art/gold.svg",
+    "name": "gold",
+    "audio": false
+  },
+  {
+    "url": "/art/platinum.svg",
+    "name": "platinum",
+    "audio": false
+  },
+  {
+    "url": "/art/diamond.svg",
+    "name": "diamond",
+    "audio": false
+  },
+  {
+    "url": "/art/master.svg",
+    "name": "master",
+    "audio": false
+  },
+  {
+    "url": "/art/grandmaster.svg",
+    "name": "grandmaster",
+    "audio": false
+  },
+  {
+    "url": "/art/cities_and_knights.svg",
+    "name": "cities_and_knights",
+    "audio": false
+  },
+  {
+    "url": "/art/rapid_play_ranked.svg",
+    "name": "rapid_play_ranked",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_rewind_start.svg",
+    "name": "icon_rewind_start",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_arrow.svg",
+    "name": "icon_arrow",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_play.svg",
+    "name": "icon_play",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_pause.svg",
+    "name": "icon_pause",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_forward.svg",
+    "name": "icon_forward",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_forward_end.svg",
+    "name": "icon_forward_end",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_share.svg",
+    "name": "icon_share",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_crown.svg",
+    "name": "icon_crown",
+    "audio": false
+  },
+  {
+    "url": "/art/ribbon_short.svg",
+    "name": "ribbon_short",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_arrow_white.svg",
+    "name": "icon_arrow_white",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_red.svg",
+    "name": "player_bg_red",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_blue.svg",
+    "name": "player_bg_blue",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_orange.svg",
+    "name": "player_bg_orange",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_white.svg",
+    "name": "player_bg_white",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_purple.svg",
+    "name": "player_bg_purple",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_green.svg",
+    "name": "player_bg_green",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_pink.svg",
+    "name": "player_bg_pink",
+    "audio": false
+  },
+  {
+    "url": "/art/player_bg_black.svg",
+    "name": "player_bg_black",
+    "audio": false
+  },
+  {
+    "url": "/art/sounds/sfx_achievement_ck_progress.wav",
+    "name": "sfx_achievement_ck_progress",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_achievement_largest_army.wav",
+    "name": "sfx_achievement_largest_army",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_achievement_longest_road.wav",
+    "name": "sfx_achievement_longest_road",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_beginner_hint_activated.wav",
+    "name": "sfx_beginner_hint_activated",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_city_destroy.wav",
+    "name": "sfx_city_destroy",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_city_improvement.wav",
+    "name": "sfx_city_improvement",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_city_place.wav",
+    "name": "sfx_city_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_city_wall_place.wav",
+    "name": "sfx_city_wall_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_click.wav",
+    "name": "sfx_click",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_clock_tick.wav",
+    "name": "sfx_clock_tick",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_devcard_bought.wav",
+    "name": "sfx_devcard_bought",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_devcard_monopoly.wav",
+    "name": "sfx_devcard_monopoly",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_devcard_used.wav",
+    "name": "sfx_devcard_used",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_dice_roll_1.wav",
+    "name": "sfx_dice_roll_1",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_dice_roll_2.wav",
+    "name": "sfx_dice_roll_2",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_dice_roll_3.wav",
+    "name": "sfx_dice_roll_3",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_dice_roll_4.wav",
+    "name": "sfx_dice_roll_4",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_discard_broadcast.wav",
+    "name": "sfx_discard_broadcast",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_discard_notification.wav",
+    "name": "sfx_discard_notification",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_disconnect.wav",
+    "name": "sfx_disconnect",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_first_reminder.wav",
+    "name": "sfx_first_reminder",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_game_started.wav",
+    "name": "sfx_game_started",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_game_started_guitar.wav",
+    "name": "sfx_game_started_guitar",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_join_room.wav",
+    "name": "sfx_join_room",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_knight_equip.wav",
+    "name": "sfx_knight_equip",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_knight_place.wav",
+    "name": "sfx_knight_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_knight_upgrade.wav",
+    "name": "sfx_knight_upgrade",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_leave_room.wav",
+    "name": "sfx_leave_room",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_message_notification.wav",
+    "name": "sfx_message_notification",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_metropolis_place.wav",
+    "name": "sfx_metropolis_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_offer_acceptable.wav",
+    "name": "sfx_offer_acceptable",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_offer_accepted.wav",
+    "name": "sfx_offer_accepted",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_offer_not_acceptable.wav",
+    "name": "sfx_offer_not_acceptable",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_offer_rejected.wav",
+    "name": "sfx_offer_rejected",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_pirate_place.wav",
+    "name": "sfx_pirate_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_reconnect.wav",
+    "name": "sfx_reconnect",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_road_place.wav",
+    "name": "sfx_road_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_robber_place.wav",
+    "name": "sfx_robber_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_room_get_ready.wav",
+    "name": "sfx_room_get_ready",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_room_setting_updated.wav",
+    "name": "sfx_room_setting_updated",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_settlement_phase_ended.wav",
+    "name": "sfx_settlement_phase_ended",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_settlement_phase_ended_guitar.wav",
+    "name": "sfx_settlement_phase_ended_guitar",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_settlement_place.wav",
+    "name": "sfx_settlement_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_ship_move.wav",
+    "name": "sfx_ship_move",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_ship_place.wav",
+    "name": "sfx_ship_place",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_victory.wav",
+    "name": "sfx_victory",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_vote_reminder.wav",
+    "name": "sfx_vote_reminder",
+    "audio": true
+  },
+  {
+    "url": "/art/sounds/sfx_your_turn.wav",
+    "name": "sfx_your_turn",
+    "audio": true
+  },
+  {
+    "url": "/art/stat_chits.svg",
+    "name": "stat_chits",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_defender.svg",
+    "name": "stat_defender",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_bought.svg",
+    "name": "stat_dev_card_bought",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_bought_ck.svg",
+    "name": "stat_dev_card_bought_ck",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_income.svg",
+    "name": "stat_dev_card_income",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_income_ck.svg",
+    "name": "stat_dev_card_income_ck",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_loss.svg",
+    "name": "stat_dev_card_loss",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_loss_ck.svg",
+    "name": "stat_dev_card_loss_ck",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_used.svg",
+    "name": "stat_dev_card_used",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_dev_card_used_ck.svg",
+    "name": "stat_dev_card_used_ck",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_gold_income.svg",
+    "name": "stat_gold_income",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_largest_army.svg",
+    "name": "stat_largest_army",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_longest_road.svg",
+    "name": "stat_longest_road",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_merchant.svg",
+    "name": "stat_merchant",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_metropolis.svg",
+    "name": "stat_metropolis",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_mmr_change.svg",
+    "name": "stat_mmr_change",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_proposed_trades.svg",
+    "name": "stat_proposed_trades",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_res_gain.svg",
+    "name": "stat_res_gain",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_res_loss.svg",
+    "name": "stat_res_loss",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_res_score.svg",
+    "name": "stat_res_score",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_resource_income_blocked.svg",
+    "name": "stat_resource_income_blocked",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_resources_used.svg",
+    "name": "stat_resources_used",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_robbing_income.svg",
+    "name": "stat_robbing_income",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_robbing_loss.svg",
+    "name": "stat_robbing_loss",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_rolling_income.svg",
+    "name": "stat_rolling_income",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_rolling_loss.svg",
+    "name": "stat_rolling_loss",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_successful_trades.svg",
+    "name": "stat_successful_trades",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_trade_income.svg",
+    "name": "stat_trade_income",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_trade_loss.svg",
+    "name": "stat_trade_loss",
+    "audio": false
+  },
+  {
+    "url": "/art/stat_vp.svg",
+    "name": "stat_vp",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_sound_off.svg",
+    "name": "icon_sound_off",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_sound_on.svg",
+    "name": "icon_sound_on",
+    "audio": false
+  },
+  {
+    "url": "/art/icon_eye.svg",
+    "name": "icon_eye",
+    "audio": false
+  }
+]

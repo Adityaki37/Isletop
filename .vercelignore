@@ -1,0 +1,13 @@
+.env*
+.sites-runtime/
+.convex/
+.wrangler/
+.next-atomic/
+.next-concurrent/
+.next-ui-qa/
+.agents/
+.codex/
+outputs/
+work/
+dist/
+tests/

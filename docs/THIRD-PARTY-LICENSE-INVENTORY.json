@@ -1,0 +1,4059 @@
+{
+  "packageLockSha256": "6b6aa437396af48a2b7020ff45ff2abf934eac19575a61c80ab0a8f16b73d433",
+  "upstream": [
+    {
+      "name": "drizzle-orm",
+      "versions": [
+        "0.45.2"
+      ],
+      "ref": "0.45.2",
+      "file": "drizzle-orm.txt",
+      "scope": "Official version-matched release tag; npm metadata has no gitHead",
+      "url": "https://raw.githubusercontent.com/drizzle-team/drizzle-orm/0.45.2/LICENSE",
+      "retrieved": "2026-10-06"
+    },
+    {
+      "name": "embla-carousel",
+      "versions": [
+        "8.6.0"
+      ],
+      "file": "embla-carousel.txt",
+      "url": "https://raw.githubusercontent.com/davidjerleke/embla-carousel/0fe65834136f1aa35e4c1a4a477e5ccb4bb5ee54/LICENSE",
+      "ref": "0fe65834136f1aa35e4c1a4a477e5ccb4bb5ee54",
+      "retrieved": "2026-10-06",
+      "scope": "Maintainer repository at exact npm release gitHead"
+    },
+    {
+      "name": "input-otp",
+      "versions": [
+        "1.4.2"
+      ],
+      "file": "input-otp.txt",
+      "url": "https://raw.githubusercontent.com/guilhermerodz/input-otp/81ccdb48c010d800b24942aa231909f0c971b1ca/LICENSE",
+      "ref": "81ccdb48c010d800b24942aa231909f0c971b1ca",
+      "retrieved": "2026-10-06",
+      "scope": "Maintainer repository at exact npm release gitHead"
+    },
+    {
+      "name": "@cloudflare/workers-types",
+      "versions": [
+        "4.20260515.1"
+      ],
+      "file": "cloudflare-workers-types.txt",
+      "url": "https://raw.githubusercontent.com/cloudflare/workerd/e8c16f4875b5228047f081beadbfe5d7aadb5b5d/LICENSE",
+      "ref": "e8c16f4875b5228047f081beadbfe5d7aadb5b5d",
+      "retrieved": "2026-10-06",
+      "scope": "Maintainer repository at exact npm release gitHead"
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "versions": [
+        "1.1.2"
+      ],
+      "file": "radix-ui-react-compose-refs.txt",
+      "url": "https://raw.githubusercontent.com/radix-ui/primitives/fcef0668a5c827e5a4baac405474d75680f9a4eb/LICENSE",
+      "ref": "fcef0668a5c827e5a4baac405474d75680f9a4eb",
+      "retrieved": "2026-10-06",
+      "scope": "Maintainer repository at exact npm release gitHead"
+    },
+    {
+      "name": "@esbuild/win32-x64",
+      "versions": [
+        "0.27.0"
+      ],
+      "ref": "2b91699b74da07c2cd2361a5e63c1882575e3bf0",
+      "file": "esbuild-win32-x64-0.27.0.txt",
+      "scope": "Exact npm release gitHead",
+      "url": "https://raw.githubusercontent.com/evanw/esbuild/2b91699b74da07c2cd2361a5e63c1882575e3bf0/LICENSE.md",
+      "retrieved": "2026-10-06"
+    },
+    {
+      "name": "@next/env",
+      "versions": [
+        "16.3.4"
+      ],
+      "ref": "v16.3.4",
+      "file": "next-16.3.4.txt",
+      "scope": "Official version-matched release tag; npm metadata has no gitHead",
+      "url": "https://raw.githubusercontent.com/vercel/next.js/v16.3.4/license.md",
+      "retrieved": "2026-10-06"
+    },
+    {
+      "name": "@next/swc-win32-x64-msvc",
+      "versions": [
+        "16.3.4"
+      ],
+      "ref": "v16.3.4",
+      "file": "next-16.3.4.txt",
+      "scope": "Official version-matched release tag; npm metadata has no gitHead",
+      "url": "https://raw.githubusercontent.com/vercel/next.js/v16.3.4/license.md",
+      "retrieved": "2026-10-06"
+    },
+    {
+      "name": "react-remove-scroll-bar",
+      "versions": [
+        "2.3.8"
+      ],
+      "file": "react-remove-scroll-bar.txt",
+      "scope": "Current maintainer license only; npm gitHead unavailable on GitHub and no matching tag was returned; release applicability remains unverified",
+      "url": "https://raw.githubusercontent.com/theKashey/react-remove-scroll-bar/master/LICENSE",
+      "retrieved": "2026-10-06"
+    },
+    {
+      "name": "client-only",
+      "versions": [
+        "0.0.1"
+      ],
+      "file": "client-only.txt",
+      "url": "https://github.com/react/react/blob/main/LICENSE",
+      "ref": "b93be90515ccd0b9daedaa589e42bf5929693f1f",
+      "scope": "React marker package; npm declares MIT but omits LICENSE; license from the official React repository"
+    }
+  ],
+  "packages": [
+    {
+      "name": "@babel/runtime",
+      "packagePath": "node_modules/@babel/runtime",
+      "version": "7.29.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@babel/runtime/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76"
+      ]
+    },
+    {
+      "name": "@base-ui/react",
+      "packagePath": "node_modules/@base-ui/react",
+      "version": "1.7.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@base-ui/react/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "07fc1b39d69d14bc7d40482a628f47226258eb01265db68ae684944b916beb2a"
+      ]
+    },
+    {
+      "name": "@base-ui/utils",
+      "packagePath": "node_modules/@base-ui/utils",
+      "version": "0.3.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@base-ui/utils/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "07fc1b39d69d14bc7d40482a628f47226258eb01265db68ae684944b916beb2a"
+      ]
+    },
+    {
+      "name": "@date-fns/tz",
+      "packagePath": "node_modules/@date-fns/tz",
+      "version": "1.5.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@date-fns/tz/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "cc7267726f809c066c35c81a17d7525bccf588ecc826b15ca65a15d34106c804"
+      ]
+    },
+    {
+      "name": "@emnapi/runtime",
+      "packagePath": "node_modules/@emnapi/runtime",
+      "version": "1.11.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@emnapi/runtime/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "2088f55c6731498410b20c95ebd345ed4a4a800bf74c0fba4d282fd2a021daaa"
+      ]
+    },
+    {
+      "name": "@esbuild/aix-ppc64",
+      "packagePath": "node_modules/@esbuild/aix-ppc64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/android-arm",
+      "packagePath": "node_modules/@esbuild/android-arm",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/android-arm64",
+      "packagePath": "node_modules/@esbuild/android-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/android-x64",
+      "packagePath": "node_modules/@esbuild/android-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/darwin-arm64",
+      "packagePath": "node_modules/@esbuild/darwin-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/darwin-x64",
+      "packagePath": "node_modules/@esbuild/darwin-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/freebsd-arm64",
+      "packagePath": "node_modules/@esbuild/freebsd-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/freebsd-x64",
+      "packagePath": "node_modules/@esbuild/freebsd-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-arm",
+      "packagePath": "node_modules/@esbuild/linux-arm",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-arm64",
+      "packagePath": "node_modules/@esbuild/linux-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-ia32",
+      "packagePath": "node_modules/@esbuild/linux-ia32",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-loong64",
+      "packagePath": "node_modules/@esbuild/linux-loong64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-mips64el",
+      "packagePath": "node_modules/@esbuild/linux-mips64el",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-ppc64",
+      "packagePath": "node_modules/@esbuild/linux-ppc64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-riscv64",
+      "packagePath": "node_modules/@esbuild/linux-riscv64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-s390x",
+      "packagePath": "node_modules/@esbuild/linux-s390x",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/linux-x64",
+      "packagePath": "node_modules/@esbuild/linux-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/netbsd-arm64",
+      "packagePath": "node_modules/@esbuild/netbsd-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/netbsd-x64",
+      "packagePath": "node_modules/@esbuild/netbsd-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/openbsd-arm64",
+      "packagePath": "node_modules/@esbuild/openbsd-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/openbsd-x64",
+      "packagePath": "node_modules/@esbuild/openbsd-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/openharmony-arm64",
+      "packagePath": "node_modules/@esbuild/openharmony-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/sunos-x64",
+      "packagePath": "node_modules/@esbuild/sunos-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/win32-arm64",
+      "packagePath": "node_modules/@esbuild/win32-arm64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/win32-ia32",
+      "packagePath": "node_modules/@esbuild/win32-ia32",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@esbuild/win32-x64",
+      "packagePath": "node_modules/@esbuild/win32-x64",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/esbuild-win32-x64-0.27.0.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/evanw/esbuild/2b91699b74da07c2cd2361a5e63c1882575e3bf0/LICENSE.md",
+      "upstreamScope": "Exact npm release gitHead",
+      "noticeSha256": [
+        "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681"
+      ]
+    },
+    {
+      "name": "@floating-ui/core",
+      "packagePath": "node_modules/@floating-ui/core",
+      "version": "1.8.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@floating-ui/core/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+      ]
+    },
+    {
+      "name": "@floating-ui/dom",
+      "packagePath": "node_modules/@floating-ui/dom",
+      "version": "1.8.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@floating-ui/dom/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+      ]
+    },
+    {
+      "name": "@floating-ui/react-dom",
+      "packagePath": "node_modules/@floating-ui/react-dom",
+      "version": "2.1.9",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@floating-ui/react-dom/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+      ]
+    },
+    {
+      "name": "@floating-ui/utils",
+      "packagePath": "node_modules/@floating-ui/utils",
+      "version": "0.2.12",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@floating-ui/utils/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e4c9a9b6c71019cbbea3bdc20b01223110a9035700f9c960c8fcbf78c2325ce"
+      ]
+    },
+    {
+      "name": "@hookform/resolvers",
+      "packagePath": "node_modules/@hookform/resolvers",
+      "version": "5.7.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@hookform/resolvers/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e8eeb472f0a5889c2c51625b86a3f9b8630680adb9f49a125352e2e426392780"
+      ]
+    },
+    {
+      "name": "@img/colour",
+      "packagePath": "node_modules/@img/colour",
+      "version": "1.1.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@img/colour/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e2eaa4603c14cb26f301e88648c12a853fa3f0f5da6d4b0972958c666e7f2ab8"
+      ]
+    },
+    {
+      "name": "@img/sharp-darwin-arm64",
+      "packagePath": "node_modules/@img/sharp-darwin-arm64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-darwin-x64",
+      "packagePath": "node_modules/@img/sharp-darwin-x64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-freebsd-wasm32",
+      "packagePath": "node_modules/@img/sharp-freebsd-wasm32",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-wasm32",
+      "packagePath": "node_modules/@img/sharp-freebsd-wasm32/node_modules/@img/sharp-wasm32",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0 AND LGPL-3.0-or-later AND MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-darwin-arm64",
+      "packagePath": "node_modules/@img/sharp-libvips-darwin-arm64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-darwin-x64",
+      "packagePath": "node_modules/@img/sharp-libvips-darwin-x64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-arm",
+      "packagePath": "node_modules/@img/sharp-libvips-linux-arm",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-arm64",
+      "packagePath": "node_modules/@img/sharp-libvips-linux-arm64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-ppc64",
+      "packagePath": "node_modules/@img/sharp-libvips-linux-ppc64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-riscv64",
+      "packagePath": "node_modules/@img/sharp-libvips-linux-riscv64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-s390x",
+      "packagePath": "node_modules/@img/sharp-libvips-linux-s390x",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linux-x64",
+      "packagePath": "node_modules/@img/sharp-libvips-linux-x64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linuxmusl-arm64",
+      "packagePath": "node_modules/@img/sharp-libvips-linuxmusl-arm64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-libvips-linuxmusl-x64",
+      "packagePath": "node_modules/@img/sharp-libvips-linuxmusl-x64",
+      "version": "1.3.3",
+      "declaredLicense": "LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linux-arm",
+      "packagePath": "node_modules/@img/sharp-linux-arm",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linux-arm64",
+      "packagePath": "node_modules/@img/sharp-linux-arm64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linux-ppc64",
+      "packagePath": "node_modules/@img/sharp-linux-ppc64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linux-riscv64",
+      "packagePath": "node_modules/@img/sharp-linux-riscv64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linux-s390x",
+      "packagePath": "node_modules/@img/sharp-linux-s390x",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linux-x64",
+      "packagePath": "node_modules/@img/sharp-linux-x64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linuxmusl-arm64",
+      "packagePath": "node_modules/@img/sharp-linuxmusl-arm64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-linuxmusl-x64",
+      "packagePath": "node_modules/@img/sharp-linuxmusl-x64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-webcontainers-wasm32",
+      "packagePath": "node_modules/@img/sharp-webcontainers-wasm32",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-wasm32",
+      "packagePath": "node_modules/@img/sharp-webcontainers-wasm32/node_modules/@img/sharp-wasm32",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0 AND LGPL-3.0-or-later AND MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-win32-arm64",
+      "packagePath": "node_modules/@img/sharp-win32-arm64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0 AND LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-win32-ia32",
+      "packagePath": "node_modules/@img/sharp-win32-ia32",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0 AND LGPL-3.0-or-later",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@img/sharp-win32-x64",
+      "packagePath": "node_modules/@img/sharp-win32-x64",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0 AND LGPL-3.0-or-later",
+      "installed": true,
+      "notices": [
+        "node_modules/@img/sharp-win32-x64/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "dc1f5d2d43c5531dfe0acaf4e950ea5dbe3e61e1850cf0e983bda7efc10d6693"
+      ]
+    },
+    {
+      "name": "@next/env",
+      "packagePath": "node_modules/@next/env",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/next-16.3.4.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/vercel/next.js/v16.3.4/license.md",
+      "upstreamScope": "Official version-matched release tag; npm metadata has no gitHead",
+      "noticeSha256": [
+        "ee765244e2d59f5234d474f62e0766fa0c8b99af967fdd4c0cb8dcb0c76ea224"
+      ]
+    },
+    {
+      "name": "@next/swc-darwin-arm64",
+      "packagePath": "node_modules/@next/swc-darwin-arm64",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-darwin-x64",
+      "packagePath": "node_modules/@next/swc-darwin-x64",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-linux-arm64-gnu",
+      "packagePath": "node_modules/@next/swc-linux-arm64-gnu",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-linux-arm64-musl",
+      "packagePath": "node_modules/@next/swc-linux-arm64-musl",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-linux-x64-gnu",
+      "packagePath": "node_modules/@next/swc-linux-x64-gnu",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-linux-x64-musl",
+      "packagePath": "node_modules/@next/swc-linux-x64-musl",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-win32-arm64-msvc",
+      "packagePath": "node_modules/@next/swc-win32-arm64-msvc",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": false,
+      "notices": [],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": []
+    },
+    {
+      "name": "@next/swc-win32-x64-msvc",
+      "packagePath": "node_modules/@next/swc-win32-x64-msvc",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/next-16.3.4.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/vercel/next.js/v16.3.4/license.md",
+      "upstreamScope": "Official version-matched release tag; npm metadata has no gitHead",
+      "noticeSha256": [
+        "ee765244e2d59f5234d474f62e0766fa0c8b99af967fdd4c0cb8dcb0c76ea224"
+      ]
+    },
+    {
+      "name": "@radix-ui/number",
+      "packagePath": "node_modules/@radix-ui/number",
+      "version": "1.1.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/number/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/primitive",
+      "packagePath": "node_modules/@radix-ui/primitive",
+      "version": "1.1.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/primitive/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-accessible-icon",
+      "packagePath": "node_modules/@radix-ui/react-accessible-icon",
+      "version": "1.1.15",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-accessible-icon/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-accordion",
+      "packagePath": "node_modules/@radix-ui/react-accordion",
+      "version": "1.2.20",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-accordion/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-accordion/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-accordion/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-alert-dialog",
+      "packagePath": "node_modules/@radix-ui/react-alert-dialog",
+      "version": "1.1.23",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-alert-dialog/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-alert-dialog/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-alert-dialog/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-arrow",
+      "packagePath": "node_modules/@radix-ui/react-arrow",
+      "version": "1.1.15",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-arrow/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-aspect-ratio",
+      "packagePath": "node_modules/@radix-ui/react-aspect-ratio",
+      "version": "1.1.15",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-aspect-ratio/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-avatar",
+      "packagePath": "node_modules/@radix-ui/react-avatar",
+      "version": "1.2.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-avatar/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-checkbox",
+      "packagePath": "node_modules/@radix-ui/react-checkbox",
+      "version": "1.3.11",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-checkbox/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-checkbox/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-checkbox/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-collapsible",
+      "packagePath": "node_modules/@radix-ui/react-collapsible",
+      "version": "1.1.20",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-collapsible/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-collapsible/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-collapsible/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-collection",
+      "packagePath": "node_modules/@radix-ui/react-collection",
+      "version": "1.1.15",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-collection/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-collection/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-collection/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-collection/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-collection/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/radix-ui-react-compose-refs.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/radix-ui/primitives/fcef0668a5c827e5a4baac405474d75680f9a4eb/LICENSE",
+      "upstreamScope": "Maintainer repository at exact npm release gitHead",
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-context",
+      "packagePath": "node_modules/@radix-ui/react-context",
+      "version": "1.2.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-context/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-context-menu",
+      "packagePath": "node_modules/@radix-ui/react-context-menu",
+      "version": "2.3.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-context-menu/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-dialog",
+      "packagePath": "node_modules/@radix-ui/react-dialog",
+      "version": "1.1.23",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dialog/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-dialog/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dialog/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-dialog/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dialog/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-direction",
+      "packagePath": "node_modules/@radix-ui/react-direction",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-direction/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-dismissable-layer",
+      "packagePath": "node_modules/@radix-ui/react-dismissable-layer",
+      "version": "1.1.19",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dismissable-layer/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-dismissable-layer/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dismissable-layer/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-dropdown-menu",
+      "packagePath": "node_modules/@radix-ui/react-dropdown-menu",
+      "version": "2.1.24",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dropdown-menu/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-dropdown-menu/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-dropdown-menu/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-focus-guards",
+      "packagePath": "node_modules/@radix-ui/react-focus-guards",
+      "version": "1.1.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-focus-guards/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-focus-scope",
+      "packagePath": "node_modules/@radix-ui/react-focus-scope",
+      "version": "1.1.16",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-focus-scope/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-focus-scope/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-focus-scope/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-form",
+      "packagePath": "node_modules/@radix-ui/react-form",
+      "version": "0.1.16",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-form/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-form/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-form/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-hover-card",
+      "packagePath": "node_modules/@radix-ui/react-hover-card",
+      "version": "1.1.23",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-hover-card/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-hover-card/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-hover-card/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-id",
+      "packagePath": "node_modules/@radix-ui/react-id",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-id/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-label",
+      "packagePath": "node_modules/@radix-ui/react-label",
+      "version": "2.1.15",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-label/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-menu",
+      "packagePath": "node_modules/@radix-ui/react-menu",
+      "version": "2.1.24",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-menu/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-menu/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-menu/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-menu/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-menu/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-menubar",
+      "packagePath": "node_modules/@radix-ui/react-menubar",
+      "version": "1.1.24",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-menubar/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-menubar/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-menubar/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-navigation-menu",
+      "packagePath": "node_modules/@radix-ui/react-navigation-menu",
+      "version": "1.2.22",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-navigation-menu/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-navigation-menu/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-navigation-menu/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-one-time-password-field",
+      "packagePath": "node_modules/@radix-ui/react-one-time-password-field",
+      "version": "0.1.16",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-one-time-password-field/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-one-time-password-field/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-one-time-password-field/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-password-toggle-field",
+      "packagePath": "node_modules/@radix-ui/react-password-toggle-field",
+      "version": "0.1.11",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-password-toggle-field/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-password-toggle-field/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-password-toggle-field/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-popover",
+      "packagePath": "node_modules/@radix-ui/react-popover",
+      "version": "1.1.23",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-popover/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-popover/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-popover/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-popover/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-popover/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-popper",
+      "packagePath": "node_modules/@radix-ui/react-popper",
+      "version": "1.3.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-popper/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-popper/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-popper/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-portal",
+      "packagePath": "node_modules/@radix-ui/react-portal",
+      "version": "1.1.17",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-portal/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-presence",
+      "packagePath": "node_modules/@radix-ui/react-presence",
+      "version": "1.1.10",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-presence/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-primitive",
+      "packagePath": "node_modules/@radix-ui/react-primitive",
+      "version": "2.1.10",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-primitive/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-primitive/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-primitive/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-primitive/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-primitive/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-progress",
+      "packagePath": "node_modules/@radix-ui/react-progress",
+      "version": "1.1.16",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-progress/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-radio-group",
+      "packagePath": "node_modules/@radix-ui/react-radio-group",
+      "version": "1.4.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-radio-group/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-radio-group/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-radio-group/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-roving-focus",
+      "packagePath": "node_modules/@radix-ui/react-roving-focus",
+      "version": "1.1.19",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-roving-focus/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-roving-focus/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-roving-focus/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-scroll-area",
+      "packagePath": "node_modules/@radix-ui/react-scroll-area",
+      "version": "1.2.18",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-scroll-area/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-scroll-area/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-scroll-area/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-select",
+      "packagePath": "node_modules/@radix-ui/react-select",
+      "version": "2.3.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-select/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-select/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-select/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-select/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-select/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-separator",
+      "packagePath": "node_modules/@radix-ui/react-separator",
+      "version": "1.1.15",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-separator/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slider",
+      "packagePath": "node_modules/@radix-ui/react-slider",
+      "version": "1.4.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-slider/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-slider/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-slider/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-switch",
+      "packagePath": "node_modules/@radix-ui/react-switch",
+      "version": "1.3.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-switch/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-switch/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-switch/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-tabs",
+      "packagePath": "node_modules/@radix-ui/react-tabs",
+      "version": "1.1.21",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-tabs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-toast",
+      "packagePath": "node_modules/@radix-ui/react-toast",
+      "version": "1.2.23",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-toast/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-toast/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-toast/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-toggle",
+      "packagePath": "node_modules/@radix-ui/react-toggle",
+      "version": "1.1.18",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-toggle/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-toggle-group",
+      "packagePath": "node_modules/@radix-ui/react-toggle-group",
+      "version": "1.1.19",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-toggle-group/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-toolbar",
+      "packagePath": "node_modules/@radix-ui/react-toolbar",
+      "version": "1.1.19",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-toolbar/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-tooltip",
+      "packagePath": "node_modules/@radix-ui/react-tooltip",
+      "version": "1.2.16",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-tooltip/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/@radix-ui/react-tooltip/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-tooltip/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/@radix-ui/react-tooltip/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-tooltip/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-callback-ref",
+      "packagePath": "node_modules/@radix-ui/react-use-callback-ref",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-callback-ref/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-controllable-state",
+      "packagePath": "node_modules/@radix-ui/react-use-controllable-state",
+      "version": "1.2.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-controllable-state/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-effect-event",
+      "packagePath": "node_modules/@radix-ui/react-use-effect-event",
+      "version": "0.0.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-effect-event/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-escape-keydown",
+      "packagePath": "node_modules/@radix-ui/react-use-escape-keydown",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-escape-keydown/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-is-hydrated",
+      "packagePath": "node_modules/@radix-ui/react-use-is-hydrated",
+      "version": "0.1.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-is-hydrated/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-layout-effect",
+      "packagePath": "node_modules/@radix-ui/react-use-layout-effect",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-layout-effect/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-previous",
+      "packagePath": "node_modules/@radix-ui/react-use-previous",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-previous/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-rect",
+      "packagePath": "node_modules/@radix-ui/react-use-rect",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-rect/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-use-size",
+      "packagePath": "node_modules/@radix-ui/react-use-size",
+      "version": "1.1.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-use-size/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-visually-hidden",
+      "packagePath": "node_modules/@radix-ui/react-visually-hidden",
+      "version": "1.2.11",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/react-visually-hidden/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/rect",
+      "packagePath": "node_modules/@radix-ui/rect",
+      "version": "1.1.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@radix-ui/rect/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@reduxjs/toolkit",
+      "packagePath": "node_modules/@reduxjs/toolkit",
+      "version": "2.12.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@reduxjs/toolkit/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "49784961ec6c4941437b7a2c54d8977d0528076a9e7c73dd40f7d0942b8f106d"
+      ]
+    },
+    {
+      "name": "immer",
+      "packagePath": "node_modules/@reduxjs/toolkit/node_modules/immer",
+      "version": "11.1.16",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@reduxjs/toolkit/node_modules/immer/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "99cf22f6960a6fe228ec84ea9aefb0d75b27999ece83a3a9801e1c2081fa270b"
+      ]
+    },
+    {
+      "name": "@shadcn/react",
+      "packagePath": "node_modules/@shadcn/react",
+      "version": "0.3.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@shadcn/react/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+      ]
+    },
+    {
+      "name": "@standard-schema/spec",
+      "packagePath": "node_modules/@standard-schema/spec",
+      "version": "1.1.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@standard-schema/spec/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "653b779005a3a4d64a7288c940f7b9a0e8f0b1e0375f6aa6af9473caf131e564"
+      ]
+    },
+    {
+      "name": "@standard-schema/utils",
+      "packagePath": "node_modules/@standard-schema/utils",
+      "version": "0.3.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@standard-schema/utils/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "9cf2166507311f427e083ef7671da566949391cb745789abcff8bd43ac26d1f1"
+      ]
+    },
+    {
+      "name": "@swc/helpers",
+      "packagePath": "node_modules/@swc/helpers",
+      "version": "0.5.23",
+      "declaredLicense": "Apache-2.0",
+      "installed": true,
+      "notices": [
+        "node_modules/@swc/helpers/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "d96eba1f1881334d50ffc144276dfa98e147a415e7c591ecdfcb81680361dc91"
+      ]
+    },
+    {
+      "name": "@types/d3-array",
+      "packagePath": "node_modules/@types/d3-array",
+      "version": "3.2.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-array/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-color",
+      "packagePath": "node_modules/@types/d3-color",
+      "version": "3.1.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-color/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-ease",
+      "packagePath": "node_modules/@types/d3-ease",
+      "version": "3.0.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-ease/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-interpolate",
+      "packagePath": "node_modules/@types/d3-interpolate",
+      "version": "3.0.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-interpolate/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-path",
+      "packagePath": "node_modules/@types/d3-path",
+      "version": "3.1.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-path/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-scale",
+      "packagePath": "node_modules/@types/d3-scale",
+      "version": "4.0.9",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-scale/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-shape",
+      "packagePath": "node_modules/@types/d3-shape",
+      "version": "3.1.8",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-shape/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-time",
+      "packagePath": "node_modules/@types/d3-time",
+      "version": "3.0.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-time/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/d3-timer",
+      "packagePath": "node_modules/@types/d3-timer",
+      "version": "3.0.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/d3-timer/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/react",
+      "packagePath": "node_modules/@types/react",
+      "version": "19.2.14",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/react/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/react-dom",
+      "packagePath": "node_modules/@types/react-dom",
+      "version": "19.2.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/react-dom/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "@types/use-sync-external-store",
+      "packagePath": "node_modules/@types/use-sync-external-store",
+      "version": "0.0.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/@types/use-sync-external-store/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+      ]
+    },
+    {
+      "name": "aria-hidden",
+      "packagePath": "node_modules/aria-hidden",
+      "version": "1.2.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/aria-hidden/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+      ]
+    },
+    {
+      "name": "baseline-browser-mapping",
+      "packagePath": "node_modules/baseline-browser-mapping",
+      "version": "2.10.30",
+      "declaredLicense": "Apache-2.0",
+      "installed": true,
+      "notices": [
+        "node_modules/baseline-browser-mapping/LICENSE.txt"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      ]
+    },
+    {
+      "name": "caniuse-lite",
+      "packagePath": "node_modules/caniuse-lite",
+      "version": "1.0.30001793",
+      "declaredLicense": "CC-BY-4.0",
+      "installed": true,
+      "notices": [
+        "node_modules/caniuse-lite/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "fd3a263fe19ed8faa9068b43abaebafc02c77897b0c6fc09abc04bb592e5f16e"
+      ]
+    },
+    {
+      "name": "class-variance-authority",
+      "packagePath": "node_modules/class-variance-authority",
+      "version": "0.7.1",
+      "declaredLicense": "Apache-2.0",
+      "installed": true,
+      "notices": [
+        "node_modules/class-variance-authority/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0ccbf956cffc8dcf515809433cb5242ee67c94513d46e48c261d68d0880de406"
+      ]
+    },
+    {
+      "name": "client-only",
+      "packagePath": "node_modules/client-only",
+      "version": "0.0.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/client-only.txt"
+      ],
+      "upstream": "https://github.com/react/react/blob/main/LICENSE",
+      "upstreamScope": "React marker package; npm declares MIT but omits LICENSE; license from the official React repository",
+      "noticeSha256": [
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      ]
+    },
+    {
+      "name": "clsx",
+      "packagePath": "node_modules/clsx",
+      "version": "2.1.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/clsx/license"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "9a9edad7baae52622bddf3c15b2ef8a33d2c89f2d25408ad13e8a7481c6b0c97"
+      ]
+    },
+    {
+      "name": "cmdk",
+      "packagePath": "node_modules/cmdk",
+      "version": "1.1.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/cmdk/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b5acfd21b3b61508365224c40ec1b03ec71091248baaf989d4be916551e7d532"
+      ]
+    },
+    {
+      "name": "convex",
+      "packagePath": "node_modules/convex",
+      "version": "1.46.0",
+      "declaredLicense": "Apache-2.0",
+      "installed": true,
+      "notices": [
+        "node_modules/convex/LICENSE",
+        "node_modules/convex/src/vendor/jwt-decode/LICENSE",
+        "node_modules/convex/src/vendor/jwt-encode/LICENSE",
+        "node_modules/convex/src/vendor/progress/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "79aaec53ef1333544088fe80ecb8ec70f2b84f60c0c4157240df0911cf9696c7",
+        "2144eb6894cb440fde6b2b3aaae3b617c8f1dc9bb19813079dcf62ec6c517042",
+        "2ecdf30947dfe709077315f7b75e3f1317420c90a3490308fca3855519b45855",
+        "d7d2a7786de7c7cfd96f920c6f12927d74e1d2a861ca4498bf465c3bc3f4c21c"
+      ]
+    },
+    {
+      "name": "ws",
+      "packagePath": "node_modules/convex/node_modules/ws",
+      "version": "8.21.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/convex/node_modules/ws/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "2b29dcfe0d6471f7e8c92c5fb38c9f93edee10330937055440192f1832b1ecef"
+      ]
+    },
+    {
+      "name": "csstype",
+      "packagePath": "node_modules/csstype",
+      "version": "3.2.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/csstype/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "11d55bd4541c75ee7879547ac49089c489163dae49551389713c3d026cab383e"
+      ]
+    },
+    {
+      "name": "d3-array",
+      "packagePath": "node_modules/d3-array",
+      "version": "3.2.4",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-array/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4"
+      ]
+    },
+    {
+      "name": "d3-color",
+      "packagePath": "node_modules/d3-color",
+      "version": "3.1.0",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-color/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884"
+      ]
+    },
+    {
+      "name": "d3-ease",
+      "packagePath": "node_modules/d3-ease",
+      "version": "3.0.1",
+      "declaredLicense": "BSD-3-Clause",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-ease/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b989d9085148d21ff64a75e14462aefa06b2589a55553b07b1460c70081c7d08"
+      ]
+    },
+    {
+      "name": "d3-format",
+      "packagePath": "node_modules/d3-format",
+      "version": "3.1.2",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-format/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "2a6d2d5f32ba0b755ddbc1c833f766e30cdbe6ebe9a6d4e3e24427721f0b63d3"
+      ]
+    },
+    {
+      "name": "d3-interpolate",
+      "packagePath": "node_modules/d3-interpolate",
+      "version": "3.0.1",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-interpolate/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+      ]
+    },
+    {
+      "name": "d3-path",
+      "packagePath": "node_modules/d3-path",
+      "version": "3.1.0",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-path/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "a09b0d6d76e768fca2085fad05743ee81ddd11946bcda160a3cf5e1081a479aa"
+      ]
+    },
+    {
+      "name": "d3-scale",
+      "packagePath": "node_modules/d3-scale",
+      "version": "4.0.2",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-scale/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+      ]
+    },
+    {
+      "name": "d3-shape",
+      "packagePath": "node_modules/d3-shape",
+      "version": "3.2.0",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-shape/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884"
+      ]
+    },
+    {
+      "name": "d3-time",
+      "packagePath": "node_modules/d3-time",
+      "version": "3.1.0",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-time/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884"
+      ]
+    },
+    {
+      "name": "d3-time-format",
+      "packagePath": "node_modules/d3-time-format",
+      "version": "4.1.0",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-time-format/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+      ]
+    },
+    {
+      "name": "d3-timer",
+      "packagePath": "node_modules/d3-timer",
+      "version": "3.0.1",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/d3-timer/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee"
+      ]
+    },
+    {
+      "name": "date-fns",
+      "packagePath": "node_modules/date-fns",
+      "version": "4.4.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/date-fns/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "8d3951c38967b964b1fe259bfd200c2647cc04c858b55a4414e3122a60f1ef4b"
+      ]
+    },
+    {
+      "name": "decimal.js-light",
+      "packagePath": "node_modules/decimal.js-light",
+      "version": "2.5.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/decimal.js-light/LICENCE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "fc0397fbd5c128bec7edef4e8d3f45e15db5fd043cdd0a2edfc4f14d47fbc3e4"
+      ]
+    },
+    {
+      "name": "detect-libc",
+      "packagePath": "node_modules/detect-libc",
+      "version": "2.1.2",
+      "declaredLicense": "Apache-2.0",
+      "installed": true,
+      "notices": [
+        "node_modules/detect-libc/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1"
+      ]
+    },
+    {
+      "name": "detect-node-es",
+      "packagePath": "node_modules/detect-node-es",
+      "version": "1.1.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/detect-node-es/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "54b32293ea560d22cd9b62af9b2cda1a030d910a48c6601d227c5ff2338d95f8"
+      ]
+    },
+    {
+      "name": "embla-carousel",
+      "packagePath": "node_modules/embla-carousel",
+      "version": "8.6.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/embla-carousel.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/davidjerleke/embla-carousel/0fe65834136f1aa35e4c1a4a477e5ccb4bb5ee54/LICENSE",
+      "upstreamScope": "Maintainer repository at exact npm release gitHead",
+      "noticeSha256": [
+        "992490064b90ec94c302fe5f29dcc14cb44145857064e46f9ffe6c8f511c1093"
+      ]
+    },
+    {
+      "name": "embla-carousel-react",
+      "packagePath": "node_modules/embla-carousel-react",
+      "version": "8.6.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/embla-carousel.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/davidjerleke/embla-carousel/0fe65834136f1aa35e4c1a4a477e5ccb4bb5ee54/LICENSE",
+      "upstreamScope": "Maintainer repository at exact npm release gitHead",
+      "noticeSha256": [
+        "992490064b90ec94c302fe5f29dcc14cb44145857064e46f9ffe6c8f511c1093"
+      ]
+    },
+    {
+      "name": "embla-carousel-reactive-utils",
+      "packagePath": "node_modules/embla-carousel-reactive-utils",
+      "version": "8.6.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/embla-carousel.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/davidjerleke/embla-carousel/0fe65834136f1aa35e4c1a4a477e5ccb4bb5ee54/LICENSE",
+      "upstreamScope": "Maintainer repository at exact npm release gitHead",
+      "noticeSha256": [
+        "992490064b90ec94c302fe5f29dcc14cb44145857064e46f9ffe6c8f511c1093"
+      ]
+    },
+    {
+      "name": "es-toolkit",
+      "packagePath": "node_modules/es-toolkit",
+      "version": "1.50.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/es-toolkit/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "51f3674294d988d89dbebd31273baaeb3c697a15482d9699b14d1fded2e132a7"
+      ]
+    },
+    {
+      "name": "esbuild",
+      "packagePath": "node_modules/esbuild",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/esbuild/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681"
+      ]
+    },
+    {
+      "name": "eventemitter3",
+      "packagePath": "node_modules/eventemitter3",
+      "version": "5.0.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/eventemitter3/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "3aecc12b1cb28832b5f65ab64291de96568c3f236a74d646281b4491f7bcadbf"
+      ]
+    },
+    {
+      "name": "get-nonce",
+      "packagePath": "node_modules/get-nonce",
+      "version": "1.0.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/get-nonce/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "acf3b087b348d2f2e731b9d4131af185aad694c1204ce14a46909483fd42da05"
+      ]
+    },
+    {
+      "name": "immer",
+      "packagePath": "node_modules/immer",
+      "version": "10.2.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/immer/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "99cf22f6960a6fe228ec84ea9aefb0d75b27999ece83a3a9801e1c2081fa270b"
+      ]
+    },
+    {
+      "name": "input-otp",
+      "packagePath": "node_modules/input-otp",
+      "version": "1.4.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/input-otp.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/guilhermerodz/input-otp/81ccdb48c010d800b24942aa231909f0c971b1ca/LICENSE",
+      "upstreamScope": "Maintainer repository at exact npm release gitHead",
+      "noticeSha256": [
+        "079031192fea535a245aa64a637d8433c406b82a14f91c3606b1d63e41c00152"
+      ]
+    },
+    {
+      "name": "internmap",
+      "packagePath": "node_modules/internmap",
+      "version": "2.0.3",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/internmap/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "9ea8903938dab5f12c4572d60725069bec2d1b0dc3bcc210b09bae946a5ebb1f"
+      ]
+    },
+    {
+      "name": "lucide-react",
+      "packagePath": "node_modules/lucide-react",
+      "version": "1.31.0",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/lucide-react/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+      ]
+    },
+    {
+      "name": "nanoid",
+      "packagePath": "node_modules/nanoid",
+      "version": "3.3.18",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/nanoid/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "da4db1480d9beea3483a2eda5c53b22238d0827d57da162b48f122e04d2d9987"
+      ]
+    },
+    {
+      "name": "next",
+      "packagePath": "node_modules/next",
+      "version": "16.3.4",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/next/dist/compiled/@babel/runtime/LICENSE",
+        "node_modules/next/dist/compiled/@hapi/accept/LICENSE",
+        "node_modules/next/dist/compiled/@mswjs/interceptors/ClientRequest/LICENSE",
+        "node_modules/next/dist/compiled/@napi-rs/triples/LICENSE",
+        "node_modules/next/dist/compiled/@opentelemetry/api/LICENSE",
+        "node_modules/next/dist/compiled/@vercel/blob/LICENSE",
+        "node_modules/next/dist/compiled/@vercel/detect-agent/LICENSE",
+        "node_modules/next/dist/compiled/@vercel/nft/LICENSE",
+        "node_modules/next/dist/compiled/@vercel/og/LICENSE",
+        "node_modules/next/dist/compiled/@vercel/og/satori/LICENSE",
+        "node_modules/next/dist/compiled/@vercel/routing-utils/LICENSE",
+        "node_modules/next/dist/compiled/acorn/LICENSE",
+        "node_modules/next/dist/compiled/anser/LICENSE",
+        "node_modules/next/dist/compiled/assert/LICENSE",
+        "node_modules/next/dist/compiled/async-retry/LICENSE",
+        "node_modules/next/dist/compiled/async-sema/LICENSE",
+        "node_modules/next/dist/compiled/babel/LICENSE",
+        "node_modules/next/dist/compiled/browserify-zlib/LICENSE",
+        "node_modules/next/dist/compiled/browserslist/LICENSE",
+        "node_modules/next/dist/compiled/buffer/LICENSE",
+        "node_modules/next/dist/compiled/busboy/LICENSE",
+        "node_modules/next/dist/compiled/bytes/LICENSE",
+        "node_modules/next/dist/compiled/ci-info/LICENSE",
+        "node_modules/next/dist/compiled/cli-select/LICENSE",
+        "node_modules/next/dist/compiled/commander/LICENSE",
+        "node_modules/next/dist/compiled/comment-json/LICENSE",
+        "node_modules/next/dist/compiled/compression/LICENSE",
+        "node_modules/next/dist/compiled/conf/LICENSE",
+        "node_modules/next/dist/compiled/content-disposition/LICENSE",
+        "node_modules/next/dist/compiled/content-type/LICENSE",
+        "node_modules/next/dist/compiled/cookie/LICENSE",
+        "node_modules/next/dist/compiled/cross-spawn/LICENSE",
+        "node_modules/next/dist/compiled/crypto-browserify/LICENSE",
+        "node_modules/next/dist/compiled/debug/LICENSE",
+        "node_modules/next/dist/compiled/devalue/LICENSE",
+        "node_modules/next/dist/compiled/domain-browser/LICENSE",
+        "node_modules/next/dist/compiled/edge-runtime/LICENSE",
+        "node_modules/next/dist/compiled/events/LICENSE",
+        "node_modules/next/dist/compiled/find-up/LICENSE",
+        "node_modules/next/dist/compiled/fresh/LICENSE",
+        "node_modules/next/dist/compiled/glob/LICENSE",
+        "node_modules/next/dist/compiled/gzip-size/LICENSE",
+        "node_modules/next/dist/compiled/https-browserify/LICENSE",
+        "node_modules/next/dist/compiled/httpxy/LICENSE",
+        "node_modules/next/dist/compiled/icss-utils/LICENSE",
+        "node_modules/next/dist/compiled/ignore-loader/LICENSE",
+        "node_modules/next/dist/compiled/image-size/LICENSE",
+        "node_modules/next/dist/compiled/ipaddr.js/LICENSE",
+        "node_modules/next/dist/compiled/is-animated/LICENSE",
+        "node_modules/next/dist/compiled/is-docker/LICENSE",
+        "node_modules/next/dist/compiled/is-wsl/LICENSE",
+        "node_modules/next/dist/compiled/jest-worker/LICENSE",
+        "node_modules/next/dist/compiled/json5/LICENSE",
+        "node_modules/next/dist/compiled/jsonwebtoken/LICENSE",
+        "node_modules/next/dist/compiled/loader-runner/LICENSE",
+        "node_modules/next/dist/compiled/loader-utils2/LICENSE",
+        "node_modules/next/dist/compiled/loader-utils3/LICENSE",
+        "node_modules/next/dist/compiled/lodash.curry/LICENSE",
+        "node_modules/next/dist/compiled/lru-cache/LICENSE",
+        "node_modules/next/dist/compiled/mini-css-extract-plugin/LICENSE",
+        "node_modules/next/dist/compiled/nanoid/LICENSE",
+        "node_modules/next/dist/compiled/native-url/LICENSE",
+        "node_modules/next/dist/compiled/neo-async/LICENSE",
+        "node_modules/next/dist/compiled/node-html-parser/LICENSE",
+        "node_modules/next/dist/compiled/ora/LICENSE",
+        "node_modules/next/dist/compiled/os-browserify/LICENSE",
+        "node_modules/next/dist/compiled/p-limit/LICENSE",
+        "node_modules/next/dist/compiled/p-queue/LICENSE",
+        "node_modules/next/dist/compiled/path-browserify/LICENSE",
+        "node_modules/next/dist/compiled/path-to-regexp/LICENSE",
+        "node_modules/next/dist/compiled/picomatch/LICENSE",
+        "node_modules/next/dist/compiled/postcss-flexbugs-fixes/LICENSE",
+        "node_modules/next/dist/compiled/postcss-modules-extract-imports/LICENSE",
+        "node_modules/next/dist/compiled/postcss-modules-local-by-default/LICENSE",
+        "node_modules/next/dist/compiled/postcss-modules-scope/LICENSE",
+        "node_modules/next/dist/compiled/postcss-modules-values/LICENSE",
+        "node_modules/next/dist/compiled/postcss-preset-env/LICENSE",
+        "node_modules/next/dist/compiled/postcss-safe-parser/LICENSE",
+        "node_modules/next/dist/compiled/postcss-scss/LICENSE",
+        "node_modules/next/dist/compiled/postcss-value-parser/LICENSE",
+        "node_modules/next/dist/compiled/process/LICENSE",
+        "node_modules/next/dist/compiled/querystring-es3/LICENSE",
+        "node_modules/next/dist/compiled/raw-body/LICENSE",
+        "node_modules/next/dist/compiled/react/LICENSE",
+        "node_modules/next/dist/compiled/react-dom/LICENSE",
+        "node_modules/next/dist/compiled/react-dom-experimental/LICENSE",
+        "node_modules/next/dist/compiled/react-experimental/LICENSE",
+        "node_modules/next/dist/compiled/react-is/LICENSE",
+        "node_modules/next/dist/compiled/react-refresh/LICENSE",
+        "node_modules/next/dist/compiled/react-server-dom-turbopack/LICENSE",
+        "node_modules/next/dist/compiled/react-server-dom-turbopack-experimental/LICENSE",
+        "node_modules/next/dist/compiled/react-server-dom-webpack/LICENSE",
+        "node_modules/next/dist/compiled/react-server-dom-webpack-experimental/LICENSE",
+        "node_modules/next/dist/compiled/regenerator-runtime/LICENSE",
+        "node_modules/next/dist/compiled/safe-stable-stringify/LICENSE",
+        "node_modules/next/dist/compiled/sass-loader/LICENSE",
+        "node_modules/next/dist/compiled/scheduler/LICENSE",
+        "node_modules/next/dist/compiled/scheduler-experimental/LICENSE",
+        "node_modules/next/dist/compiled/schema-utils2/LICENSE",
+        "node_modules/next/dist/compiled/schema-utils3/LICENSE",
+        "node_modules/next/dist/compiled/semver/LICENSE",
+        "node_modules/next/dist/compiled/send/LICENSE",
+        "node_modules/next/dist/compiled/serve-handler/LICENSE",
+        "node_modules/next/dist/compiled/shell-quote/LICENSE",
+        "node_modules/next/dist/compiled/source-map/LICENSE",
+        "node_modules/next/dist/compiled/source-map08/LICENSE",
+        "node_modules/next/dist/compiled/stacktrace-parser/LICENSE",
+        "node_modules/next/dist/compiled/stream-browserify/LICENSE",
+        "node_modules/next/dist/compiled/stream-http/LICENSE",
+        "node_modules/next/dist/compiled/string_decoder/LICENSE",
+        "node_modules/next/dist/compiled/strip-ansi/LICENSE",
+        "node_modules/next/dist/compiled/superstruct/LICENSE",
+        "node_modules/next/dist/compiled/tar/LICENSE",
+        "node_modules/next/dist/compiled/terser/LICENSE",
+        "node_modules/next/dist/compiled/text-table/LICENSE",
+        "node_modules/next/dist/compiled/timers-browserify/LICENSE",
+        "node_modules/next/dist/compiled/tty-browserify/LICENSE",
+        "node_modules/next/dist/compiled/ua-parser-js/LICENSE",
+        "node_modules/next/dist/compiled/util/LICENSE",
+        "node_modules/next/dist/compiled/vm-browserify/LICENSE",
+        "node_modules/next/dist/compiled/watchpack/LICENSE",
+        "node_modules/next/dist/compiled/web-vitals/LICENSE",
+        "node_modules/next/dist/compiled/web-vitals-attribution/LICENSE",
+        "node_modules/next/dist/compiled/webpack/LICENSE",
+        "node_modules/next/dist/compiled/webpack-sources1/LICENSE",
+        "node_modules/next/dist/compiled/webpack-sources3/LICENSE",
+        "node_modules/next/dist/compiled/write-file-atomic/LICENSE",
+        "node_modules/next/dist/compiled/ws/LICENSE",
+        "node_modules/next/dist/compiled/zod/LICENSE",
+        "node_modules/next/dist/compiled/zod-validation-error/LICENSE",
+        "node_modules/next/license.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+        "ff96bbd6a7408c166f16dbed7f2c87a8061e5a21289ec8f2d3069f8d3b15fc0a",
+        "bb3a5cb8fb224f632970e31425348f556f7a83b165d5384ea5e142575f5c412e",
+        "7b34e99bc43641767fded49f7f03563ffd50c689b1f3b0d50700b4727bc4ae24",
+        "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "2b6fc3f4a995e6ad29f4e2ed8881a32979058b8d6557efaa6d86b7e985849f40",
+        "b070d77bfb2c52a1dd6996de0ce5f64c49a0ca55c889b163a963ddf5cb001ee2",
+        "0b31f3a6ab66b272b7de451df39835f310a309a06b1a8aafb3a2fdab20adc166",
+        "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5",
+        "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5",
+        "b070d77bfb2c52a1dd6996de0ce5f64c49a0ca55c889b163a963ddf5cb001ee2",
+        "76a876cf886ff9be2a8b5e2e86514fed06223c8c9f0c1e9ee9606e93841e00b7",
+        "6d2abc90a426cf65bbf84f7cedf9487f7ff86a3daf0e130b335a45c112f040d0",
+        "6239c6144c31e58cf925c34483606969c555574d64ffa96518ab5d7f45c75d43",
+        "8cec82f7beeab8459fa6165c973f5cd6f89aceea7a07de0aa8fc30a9dd339a05",
+        "291ff3e2bd22891edef553930da53ba64adf79d83f0bd1c5b7f6fe9727526b37",
+        "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+        "ddd770379e07bf0574dfaa4485be80a23b3248b36d09f33ec79276c09b829daf",
+        "f25bf9bf3ae8984bcd43bf7fb8f78e7eec8d577081fb8d0989cfa7c67ecebb8e",
+        "06bafa45fdad2579ba0e43b0c9b2c6290287c99c4203c300254a462b38a307f6",
+        "d06b5d27bbbbe22c36b1fd88406b1208876e2d37d795f5b8eaed951a459a3111",
+        "e3b44af066615de2ea48d18d852d0762f18c0b2efcea714fa48a6f729d405b85",
+        "25bd22427e27b0d3f1c3da2670bb44b622bcced22ebdf4777d5488ac129370a1",
+        "a8e260b5b60eb27746ff2c5967489e6878c5a6ba99400cbec84c89a9b49a46ca",
+        "04512a63dce4d2d506ad612dc0bd7681ccf6e3655f7b6eaef7dfac8323d1ec0b",
+        "9dbd86998d3cdafc1d8c298aea636146568d05d429b81386e60cfce11e6cedb6",
+        "23d466b1b134b415b66fa50c6526b4cf3e7b9258554da88d3abb371721e7ce68",
+        "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bd47ce7b88c7759630d1e2b9fcfa170a0f1fde522be09e13fb1581a79d090400",
+        "257aed98914108e91a337912727b6a802eef218248507f74b76faffaff517a38",
+        "c02110eedc16c7114f1a9bdc026c65626ce1d9c7e27fd51a8e0feee8a48a6858",
+        "aaa78451b6fecd1b9c4594c796c133c0e90cad100372ff8bc6de615e9ef9adf1",
+        "6134c69bc22c8289252e70de3af20bd67071233459055be74d83acfcc4865e7e",
+        "98c970de440dcfc77471610aec2377c9d9b0db2b3be6d1add524a586e1d7f422",
+        "e399db7e952e45cae84f1b53d72ba8dbad2daaa7ab8cd1f0ab72fea5ab73b225",
+        "fc06db8dd5e7840db84ab328d9f58bdb91a56fbbf045bb977c11fcd07e2d8e3e",
+        "e4f76a7a19ef2989dd79339bd3abf8afcf1d6f065e5a10c76c19415ffd727eb3",
+        "631987b7616a325a5b97566c232418481ddf7dbb5ecadefb991e791876cc2599",
+        "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "a0ec0dab16b3666f24950f86d257930ac2ad475557b4bfe245620e0817d8a45d",
+        "6236fa0b88a4a0cce3dda0367979491b2052b3c8d6b1c10b3668de083e86a7f0",
+        "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "ff151c00207c908581639851dd8504ce4255be0650b2b236edec2aa90342b0cd",
+        "4249bd020d1b5c503d20a196c1b686b3bdebcd1c7ac06909c546d9624c64f79b",
+        "b2b54c738525e98cc42d4a1c239c9d8421507816acce98950e81d0943daae68e",
+        "62ba766e9b50f9b175b0229f4ea03e93730c9180408acec50dd617e9ae1fa059",
+        "3109783dad7527b490aabc49c3cb148573c19b41b843e70cf9388a93f3d7fccd",
+        "62568a2d1337b77171ecca9db10579163446de1ba6151678e81f06cdc199971b",
+        "e08c030e1274fadc495c71e0489612f0c74673b69ae8e41460526c233a94a728",
+        "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "53e59feb13058722d977c699eb0407c7bce2f93c949b681bbd2ff31698535927",
+        "2144eb6894cb440fde6b2b3aaae3b617c8f1dc9bb19813079dcf62ec6c517042",
+        "498d39c83164cf8de195090f5564fc0308ab271344ca2f95484a7f1020952d00",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "ffd8b33b354585f4ce119f19c53728281e48a97b074491eb6bf6d5c5ff305272",
+        "451ec07eeb9c4e1b86de9abdaa426462a8be48f887ec7421cf0bbb9c769555ab",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "da4db1480d9beea3483a2eda5c53b22238d0827d57da162b48f122e04d2d9987",
+        "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "811238ba7d85f6fe6b820703a32f92705bcf77bc352ddc3476783491c64a129a",
+        "ea75e9321945b7f0bc4644da1e404ad76ce55e9bc05cae3b2f5f2d973aede83b",
+        "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "d25d1d6d28c35cb6f358e2833e405c4e53fec2fa24d156323ddea5cd438d3407",
+        "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "a22b9d5763f574e5db347c30acc0b33eaf4846767c03d2e27d012e864e79a824",
+        "4eeb3271453a891df609e5a9f4ee79a68307f730c13417a3bfeffa604ac8cf25",
+        "d0cd141b0c322fded5dfad1d4645bb2fedfc05b7321fe1009469638190d59ef9",
+        "f26c92c1c16e78c6b1f7474792f7195b7abc851caccb4a73dcc5b3c31efc7321",
+        "9e534cfb7f7ae1300e16fe1ee7d203fdfe707dc932429c37246f747c3699ee14",
+        "dd40f37957ddcb6a6157f40b677d6f43697583f956144fbce25443e35630453e",
+        "7774c8c4a3f750b294b416818062201a404fc2d6c8756d8b89a1688e24b5d5a7",
+        "655287aefbf8e292057318c385d77767b1dd9819c87709fd26730b7090efe4d9",
+        "597756adcb51f243ef4fb386920377f61d012ace0904364e1a8ee9aaec6afc84",
+        "c4630ac8b89cb317ac5bdd60ac5e4e185eab9bd5151a0c7b3afa41aa83d7ec9b",
+        "c4630ac8b89cb317ac5bdd60ac5e4e185eab9bd5151a0c7b3afa41aa83d7ec9b",
+        "3687447039151857a6ba378db062172c7f33d4aa70a615c87a43a9c50e990485",
+        "59a400d04c5078579acc27ddd6452c1bdf763f9506e01364700935fbb1a7c91b",
+        "cb72d9714ddc21e758d63f423be0caddf909d23ccbb10a2f5201a870818e4f57",
+        "c8e6bca7230689d536a3bd7158f66e9c4f89f95d0748743a0370ac229e9023ad",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "51887a3d47051ac2fce1210562e5b9fe0830a8a8fabeb272c2d586eeb18a05fd",
+        "3a6d6de49d284a36c5d271ef0e62eca1838cc460dd7630e3f2c347c8f5b2232a",
+        "2af12ca8b612a22e6659ae68e0e59ee7ac792718c45524a989b512c49c5f5879",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+        "25a328069fe771f8ed5b6f983ed4b0e6c84b3312ac0f69b28c3d52dc277962c9",
+        "be8ba42db3b7c3dbb064bcdc1bbbb191c0a39c8851c2a53564e97c7eea301bca",
+        "8bb16db1b047019e4395965f2cf3611b06c34bf86dc2d0210b3c3f91b53c21fe",
+        "6cb0631f71c7749763fd3dd1d5bee52dd1070ec17f2edc1710079ad070bd2fbd",
+        "6cb0631f71c7749763fd3dd1d5bee52dd1070ec17f2edc1710079ad070bd2fbd",
+        "e1898814043cb5500483d9c8517edda824b352f696d35e5043fcfb537c221531",
+        "96e5193183476a03da6667d217ce14110191d26ee105338086e94339edf40d5a",
+        "a0e6357a5e8ea65827addeb383e0948a1874d2f46bc7feaf6349b7a376ed6e98",
+        "11f2aafb37d06b3ee5bdaf06e9811141d0da05263c316f3d627f45c20d43261b",
+        "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "0f644bc01d85e4b1958bdfe5a851704bd886404c78188d4d6fba43dc8293bc91",
+        "8a1af140fdfbf5afd3df27f7e662f989c5b963a300020dfafce42033cae9e004",
+        "901d0a7fcaccaae9917d165039c0473c354e5da2e0e94140dde67aad9ffb19da",
+        "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+        "d5f14c3258420dfe5a3b641a143d6e6dd90eabb5962244d937e25699c3a45ec9",
+        "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+        "fb9548e36708f09ae0cc1047ebd8153928bfe5bed67e4051f0ace552bdcbf0b3",
+        "6239c6144c31e58cf925c34483606969c555574d64ffa96518ab5d7f45c75d43",
+        "3a62887f73cd035ac1068bc0127ce94291f7a03843391f56df3520e2ca2037f8",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "bfdeded4040e05da31ca9b6239dc83bd23fa26ac8db87342a7ca4363f68916ff",
+        "bfdeded4040e05da31ca9b6239dc83bd23fa26ac8db87342a7ca4363f68916ff",
+        "9068a8782d2fb4c6e432cfa25334efa56f722822180570802bf86e71b6003b1e",
+        "214d0ac13edb475ec426df1979d96fd46b443debc466c0fb592e32152ae5a940",
+        "214d0ac13edb475ec426df1979d96fd46b443debc466c0fb592e32152ae5a940",
+        "ea7f376fe7a1fc28572b83ac8f806d92effb31852b9981bc9ba9d5266caa6b28",
+        "dcd0a622a3a2c94fe3aa6238b76363f87df442afe788cbad966afe943ed62281",
+        "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8",
+        "03cc9a630489a2544b799548a0e8b134f382fe09fa06dc22b339091b28b8f4a8",
+        "ee765244e2d59f5234d474f62e0766fa0c8b99af967fdd4c0cb8dcb0c76ea224"
+      ]
+    },
+    {
+      "name": "next-themes",
+      "packagePath": "node_modules/next-themes",
+      "version": "0.4.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/next-themes/license.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b5acfd21b3b61508365224c40ec1b03ec71091248baaf989d4be916551e7d532"
+      ]
+    },
+    {
+      "name": "picocolors",
+      "packagePath": "node_modules/picocolors",
+      "version": "1.1.1",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/picocolors/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "6582629e2979466878f6014313dcc2f3756c9616148682227ce3063dde310750"
+      ]
+    },
+    {
+      "name": "postcss",
+      "packagePath": "node_modules/postcss",
+      "version": "8.5.23",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/postcss/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "5be1f3465bba68a626777f984878814aaf35e7ef8e9fd314d469bcf887050fb8"
+      ]
+    },
+    {
+      "name": "prettier",
+      "packagePath": "node_modules/prettier",
+      "version": "3.9.9",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/prettier/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b0f2417199889f1c0d28ec4e0244eacf1a15de5819d61f641dd7d8f45153ac9c"
+      ]
+    },
+    {
+      "name": "radix-ui",
+      "packagePath": "node_modules/radix-ui",
+      "version": "1.6.7",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/radix-ui/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-compose-refs",
+      "packagePath": "node_modules/radix-ui/node_modules/@radix-ui/react-compose-refs",
+      "version": "1.1.5",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/radix-ui/node_modules/@radix-ui/react-compose-refs/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "@radix-ui/react-slot",
+      "packagePath": "node_modules/radix-ui/node_modules/@radix-ui/react-slot",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/radix-ui/node_modules/@radix-ui/react-slot/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0e80a2d229d2fd4fc7e8636142ec5d0ff0bc031f14c15b682e2ac01dfd5b5138"
+      ]
+    },
+    {
+      "name": "react",
+      "packagePath": "node_modules/react",
+      "version": "19.2.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      ]
+    },
+    {
+      "name": "react-day-picker",
+      "packagePath": "node_modules/react-day-picker",
+      "version": "10.0.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-day-picker/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "22cdffdf17a2b6b4d2e1a8c93df0ad35535193b84e6d32ed4945373126f4f3e6"
+      ]
+    },
+    {
+      "name": "react-dom",
+      "packagePath": "node_modules/react-dom",
+      "version": "19.2.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-dom/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      ]
+    },
+    {
+      "name": "react-hook-form",
+      "packagePath": "node_modules/react-hook-form",
+      "version": "7.85.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-hook-form/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e8eeb472f0a5889c2c51625b86a3f9b8630680adb9f49a125352e2e426392780"
+      ]
+    },
+    {
+      "name": "react-is",
+      "packagePath": "node_modules/react-is",
+      "version": "16.13.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-is/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85"
+      ]
+    },
+    {
+      "name": "react-redux",
+      "packagePath": "node_modules/react-redux",
+      "version": "9.3.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-redux/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "f2da73c752c6b87624755edacf927cbd915fa76555d383e74494bad4a5155ab3"
+      ]
+    },
+    {
+      "name": "react-remove-scroll",
+      "packagePath": "node_modules/react-remove-scroll",
+      "version": "2.7.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-remove-scroll/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+      ]
+    },
+    {
+      "name": "react-remove-scroll-bar",
+      "packagePath": "node_modules/react-remove-scroll-bar",
+      "version": "2.3.8",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "vendor/licenses/react-remove-scroll-bar.txt"
+      ],
+      "upstream": "https://raw.githubusercontent.com/theKashey/react-remove-scroll-bar/master/LICENSE",
+      "upstreamScope": "Current maintainer license only; npm gitHead unavailable on GitHub and no matching tag was returned; release applicability remains unverified",
+      "noticeSha256": [
+        "a79aae0c0f21990d9d963bb3c5a79cdcea9a46f8523ba55c58d7fe776b6ebc84"
+      ]
+    },
+    {
+      "name": "react-resizable-panels",
+      "packagePath": "node_modules/react-resizable-panels",
+      "version": "4.12.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-resizable-panels/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "a8f1e0280bf14adcf5d017547db85eb5c3bac0feb1690ca98650874002eaa8ea"
+      ]
+    },
+    {
+      "name": "react-style-singleton",
+      "packagePath": "node_modules/react-style-singleton",
+      "version": "2.2.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/react-style-singleton/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+      ]
+    },
+    {
+      "name": "recharts",
+      "packagePath": "node_modules/recharts",
+      "version": "3.8.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/recharts/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "2d3aa48a8d1d3b93093680e8e68d3a64cfb590c3ade377ffcaefc69dac7c2ce5"
+      ]
+    },
+    {
+      "name": "reselect",
+      "packagePath": "node_modules/recharts/node_modules/reselect",
+      "version": "5.1.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/recharts/node_modules/reselect/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "0bb5035e49bf9b5661655b402bab3c3efccb8eab2a50e37392100139fe3280f2"
+      ]
+    },
+    {
+      "name": "redux",
+      "packagePath": "node_modules/redux",
+      "version": "5.0.1",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/redux/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "f2da73c752c6b87624755edacf927cbd915fa76555d383e74494bad4a5155ab3"
+      ]
+    },
+    {
+      "name": "redux-thunk",
+      "packagePath": "node_modules/redux-thunk",
+      "version": "3.1.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/redux-thunk/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "635da794c92d278f8355428be0f9922d643f556d4f75f33fe4aca6b98d27affe"
+      ]
+    },
+    {
+      "name": "reselect",
+      "packagePath": "node_modules/reselect",
+      "version": "5.2.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/reselect/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "e98047a5dee068b33f82e8c4b7a63037b5108c93393198efd4097753004af5dd"
+      ]
+    },
+    {
+      "name": "scheduler",
+      "packagePath": "node_modules/scheduler",
+      "version": "0.27.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/scheduler/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      ]
+    },
+    {
+      "name": "sharp",
+      "packagePath": "node_modules/sharp",
+      "version": "0.35.4",
+      "declaredLicense": "Apache-2.0",
+      "installed": true,
+      "notices": [
+        "node_modules/sharp/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "73ba74dfaa520b49a401b5d21459a8523a146f3b7518a833eea5efa85130bf68"
+      ]
+    },
+    {
+      "name": "semver",
+      "packagePath": "node_modules/sharp/node_modules/semver",
+      "version": "7.8.5",
+      "declaredLicense": "ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/sharp/node_modules/semver/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b"
+      ]
+    },
+    {
+      "name": "sonner",
+      "packagePath": "node_modules/sonner",
+      "version": "2.0.8",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/sonner/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "da9201378c36ffd81f51ad0b305f3f0981e90bc558789210ad65d1161eec3b7d"
+      ]
+    },
+    {
+      "name": "source-map-js",
+      "packagePath": "node_modules/source-map-js",
+      "version": "1.2.1",
+      "declaredLicense": "BSD-3-Clause",
+      "installed": true,
+      "notices": [
+        "node_modules/source-map-js/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "6cb0631f71c7749763fd3dd1d5bee52dd1070ec17f2edc1710079ad070bd2fbd"
+      ]
+    },
+    {
+      "name": "styled-jsx",
+      "packagePath": "node_modules/styled-jsx",
+      "version": "5.1.6",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/styled-jsx/license.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "24d4a4580df855c345705b3016404f0c9da7e7674dc3b21a3ce7d0e5d0c37e2d"
+      ]
+    },
+    {
+      "name": "tailwind-merge",
+      "packagePath": "node_modules/tailwind-merge",
+      "version": "3.6.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/tailwind-merge/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "d4c70c7ce38cea8778f0aed3fc0bef0a9dbd27f13bd8b6773cbd6d37941971e5"
+      ]
+    },
+    {
+      "name": "tiny-invariant",
+      "packagePath": "node_modules/tiny-invariant",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/tiny-invariant/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b1c501095de70182748cb8e8d97ac5577701a4ef3b755ba30d59fd87b24bdb0f"
+      ]
+    },
+    {
+      "name": "tslib",
+      "packagePath": "node_modules/tslib",
+      "version": "2.8.1",
+      "declaredLicense": "0BSD",
+      "installed": true,
+      "notices": [
+        "node_modules/tslib/LICENSE.txt"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751"
+      ]
+    },
+    {
+      "name": "use-callback-ref",
+      "packagePath": "node_modules/use-callback-ref",
+      "version": "1.3.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/use-callback-ref/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+      ]
+    },
+    {
+      "name": "use-sidecar",
+      "packagePath": "node_modules/use-sidecar",
+      "version": "1.1.3",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/use-sidecar/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "30f0cfddf483d1128e3610205020f2041a6c5e837aa999e0aa82e5576187d4a9"
+      ]
+    },
+    {
+      "name": "use-sync-external-store",
+      "packagePath": "node_modules/use-sync-external-store",
+      "version": "1.6.0",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/use-sync-external-store/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+      ]
+    },
+    {
+      "name": "vaul",
+      "packagePath": "node_modules/vaul",
+      "version": "1.1.2",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/vaul/LICENSE.md"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "b09b9ccf866cc09b502d9cf4679e2461beb1469709ea0c6a30009766e10b3acf"
+      ]
+    },
+    {
+      "name": "victory-vendor",
+      "packagePath": "node_modules/victory-vendor",
+      "version": "37.3.6",
+      "declaredLicense": "MIT AND ISC",
+      "installed": true,
+      "notices": [
+        "node_modules/victory-vendor/lib-vendor/d3-array/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-color/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-ease/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-format/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-interpolate/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-path/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-scale/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-shape/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-time/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-time-format/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-timer/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/d3-voronoi/LICENSE",
+        "node_modules/victory-vendor/lib-vendor/internmap/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884",
+        "faa682e3e430941f958d26180458f5934a62f58dac4d70ccdd15608c15d0f884",
+        "b989d9085148d21ff64a75e14462aefa06b2589a55553b07b1460c70081c7d08",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "0ab21426fad1e8b819ea8ab4c7faf5a24d4fca9c01572fe722490d600bba0d22",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "e008c5e25a6be382593089c29bfabbc553c6378eee02895aec46ce396cc404ee",
+        "ad6cf57648385d6c40a29f73c55e42922dd793823df5ea265ccd834873bf09b9",
+        "9ea8903938dab5f12c4572d60725069bec2d1b0dc3bcc210b09bae946a5ebb1f"
+      ]
+    },
+    {
+      "name": "zod",
+      "packagePath": "node_modules/zod",
+      "version": "3.25.76",
+      "declaredLicense": "MIT",
+      "installed": true,
+      "notices": [
+        "node_modules/zod/LICENSE"
+      ],
+      "upstream": null,
+      "upstreamScope": null,
+      "noticeSha256": [
+        "3f1189b28e3866e0d979968d466b78f813f76827cfdca1fbb124cc0a5c8841f8"
+      ]
+    }
+  ],
+  "missingDistributionNotices": []
+}

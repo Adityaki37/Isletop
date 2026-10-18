@@ -1,0 +1,11 @@
+{
+  "sourceCommit": "d2b6586",
+  "algorithm": "SHA-256 of JSON.stringify of the unshuffled complete Board",
+  "hashes": {
+    "diamond": "30dc482cd38a130bda5f1070598c1601b9ef266012c151f65b6f771b6742e2b5",
+    "pond": "5d950cd4d17ae5e601743c5bb4c397c7ecf97f13dd25822bf20193ec4054ed11",
+    "gear": "b841c4f30d9f1231358b63a9508aff20cadc4fc1919c047a5f02854a2edada11",
+    "twirl": "a8f3800fa04060ab5c9e935ee4b46b7348518a845eef9c5b61640fa5869881b6",
+    "lakes": "cbbc9dcea5d9f8c7ec1218a295c66a47eb9e8a2683d0aaeefcf1ad730a025e7c"
+  }
+}
