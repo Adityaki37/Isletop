@@ -1,6 +1,6 @@
 # Isletop
 
-An open-source multiplayer island strategy game. Trade resources, build settlements and cities, explore islands, and play with friends or bots.
+An open-source multiplayer island strategy game. Trade resources, build settlements and cities, explore islands, and play with friends or bots. Play on www.isletop.com or run it yourselves.
 
 Isletop includes guest play, username/password accounts with recovery codes, private hands, live rooms, spectators, replays, statistics, casual and ranked matchmaking, and several maps and expansion modes. It is an independent implementation with original generated SVG artwork and synthesized sound effects.
 
